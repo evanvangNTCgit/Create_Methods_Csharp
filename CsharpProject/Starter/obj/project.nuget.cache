@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vl9w3+oQ/Ew=",
+  "dgSpecHash": "VIhddxchPLo=",
   "success": true,
   "projectFilePath": "C:\\Users\\Evan\\OneDrive\\Visual_Studios_Code_Projs\\FreeCodeCamp_C#_Certification\\Create_Methods_Csharp\\CsharpProject\\Starter\\Starter.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Evan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\Evan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\Evan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\Evan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
